@@ -71,8 +71,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
 
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer" style="background-color:white;"> 
-    <img src="./canvasjs.svg" alt="canvasjs" width="40" height="40" style="background-color:white;"/> 
+<a href="https://canvasjs.com" target="_blank" rel="noreferrer" > 
+    <img src="./Frame.svg" alt="canvasjs" width="40" height="40"/> 
 </a>
 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
