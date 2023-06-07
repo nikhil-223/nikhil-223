@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shekhawat</h1>
 <h3 align="center">I specialize in creating dynamic and interactive websites utilizing a range of programming language and frameworks</h3>
 
+<img align="right" alt="Coding" width="400" src="./coder.svg">
+
 - 🔭 I’m currently working on [chatting app](https://chatttingapp.netlify.app/)
 
 - 🌱 I’m currently learning **React Native, Python**
